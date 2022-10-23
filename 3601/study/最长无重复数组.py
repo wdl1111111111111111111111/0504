@@ -10,7 +10,6 @@ class Solution:
             while r < len(arr):
                 if arr[r] not in hashmap:
                     hashmap[arr[r]] = r
-
                     result = max(result, r - l + 1)
                     r += 1
                 else:

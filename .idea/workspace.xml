@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55fe8212-e9f6-49f1-8c7d-828981a56292" name="Changes" comment="update" />
+    <list default="true" id="55fe8212-e9f6-49f1-8c7d-828981a56292" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/3601/leetcode/20.py" beforeDir="false" afterPath="$PROJECT_DIR$/3601/leetcode/20.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -266,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670053918912</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update">
+      <created>1670054249463</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670054249463</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
